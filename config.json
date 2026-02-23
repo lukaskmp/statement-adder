@@ -1,0 +1,13 @@
+{
+  "statement": "**Statement**\nThe system XYZ was used to position and monitor the treatment.\n(sample statement, please adjust)",
+  "font_size": 9,
+  "text_color_rgb": [0, 0, 0],
+  "left_margin_pts": 40,
+  "right_margin_pts": 40,
+  "line_height_multiplier": 1.4,
+  "paragraph_gap_multiplier": 0.8,
+  "insert_y_from_top_pts": 350,
+  "input_dir": "./input",
+  "output_dir": "./output",
+  "output_suffix": "_with_statement"
+}

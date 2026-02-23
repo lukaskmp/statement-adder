@@ -1,0 +1,8 @@
+{
+  "name": "statement-adder",
+  "version": "1.0.0",
+  "description": "Stamps a confirmation statement into PDF reports",
+  "dependencies": {
+    "pdf-lib": "^1.17.1"
+  }
+}
